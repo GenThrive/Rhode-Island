@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------
 # PAGE SETTINGS
 # ----------------------------------------------------------------------------
-app_title = 'Wisconsin Environmental Education Directory'
-page_title = 'Wisconsin Environmental Education Directory'
+app_title = 'Rhode Island Environmental Education Directory'
+page_title = 'Rhode Island Environmental Education Directory'
 sub_title = 'Filter on'
 filter_category_1 = 'Organization Data'
 filter_category_2 = 'Program Data'
@@ -10,8 +10,8 @@ filter_category_2 = 'Program Data'
 # ----------------------------------------------------------------------------
 # MAP SETTINGS
 # ----------------------------------------------------------------------------
-map_center_lat = 44.8742713
-map_center_lon = -91.2084173
+map_center_lat = 41.5568459
+map_center_lon = -71.8275448
 map_zoom = 5.072
 
 # Column in the dataset that maps to the featureidkey of the geojson.
